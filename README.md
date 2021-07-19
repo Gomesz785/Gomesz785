@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, vs code, Latex
 - 💞️ I’m looking to collaborate on small python scripts, typo fixes in codes 
 - 📫 How to reach me turdboi420sarah@protonmail.com
-
+- 💻 My Computer is an i3, 1.7 GB Ram, 14" screen, Windows 7 
 <!---
 Gomesz785/Gomesz785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
