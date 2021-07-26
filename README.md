@@ -29,7 +29,7 @@
 
 - 📈 github learning curve - kind of getting it.
 
-- ⚡ Fun fact **I am from SL**
+- ⚡ Fun fact **I do not want to remove the auto-generated profile-pic because it is very beautiful!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
