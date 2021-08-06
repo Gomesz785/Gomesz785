@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gomesz785" alt="gomesz785" /></a> </p>
 
+- My website - applestales.wordpress.com
+
 - 🔭 I’m currently working on [pythonProductive](https://github.com/Gomesz785/pythonProductive)
 
 - 👀 I’m interested in python, C languages, ML, wireshark, linux
