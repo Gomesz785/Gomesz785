@@ -29,13 +29,9 @@
     - Other equipment: Dell inspiron 5558, 8GB, 1TB HDD
     - Core 2 duo PC
 
-- 📚 I am currently in Grade 9
+- 📚 I am currently in Grade 10
 
 - 🕛 Available times 0430 to 1730 hrs GMT
-
-- 📈 github learning curve - kind of getting it.
-
-- ⚡ Fun fact **I do not want to remove the auto-generated profile-pic because it is very beautiful!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
