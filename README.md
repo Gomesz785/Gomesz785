@@ -24,10 +24,10 @@
 - 📫 How to reach me **turdboi420sarah@protonmail.com**
 
 - 💻 
-- My Primary computer is an Acer TravelMate 4740, 8GB RAM, 320GB HDD, 14" Screen
-- My Personal computer is an Dell Inspiron 5510, 8GB RAM, 512GB SSD, 15" Screen
-- Other equipment: Dell inspiron 5558, 8GB, 1TB HDD
-- Core 2 duo PC
+ - My Primary computer is an Acer TravelMate 4740, 8GB RAM, 320GB HDD, 14" Screen
+ - My Personal computer is an Dell Inspiron 5510, 8GB RAM, 512GB SSD, 15" Screen
+ - Other equipment: Dell inspiron 5558, 8GB, 1TB HDD
+ - Core 2 duo PC
 
 - 📚 I am currently in Grade 9
 
